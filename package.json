@@ -1,5 +1,5 @@
 {
-  "name": "auth0-lock",
+  "name": "auth0-lock-noreact",
   "version": "10.13.0",
   "description": "Auth0 Lock",
   "author": "Auth0 <support@auth0.com> (http://auth0.com)",
@@ -107,7 +107,7 @@
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0",
-    "react-addons-css-transition-group": "^15.0.0 || ^16.0.0",
+    "react-addons-css-transition-group": "^16.0.0-alpha.6",
     "react-dom": "^15.0.0 || ^16.0.0"
   },
   "cdn-component": {
